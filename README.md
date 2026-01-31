@@ -18,7 +18,7 @@ This project focuses on predicting housing prices in Boston using advanced **Mac
 ## 🛠️ Technologies Used
 * **Python**: Data Analysis & Modeling.
 * **Pandas & NumPy**: Data Manipulation.
-* **Matplotlib & Seaborn**: Exploratory Data Analysis (EDA).
+* **Plotly**: Exploratory Data Analysis (EDA).
 * **Scikit-Learn**: Machine Learning (Linear Regression, Ridge, Polynomial Features).
 
 ## 📊 Key Steps & Methodology
